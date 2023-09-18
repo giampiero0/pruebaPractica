@@ -1,0 +1,11 @@
+proyecto/
+ index.html
+ styles/
+ style.css
+ responsive.css
+  scripts/
+ main.js
+ utility.js
+ images/
+ config/
+ README.md
