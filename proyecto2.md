@@ -1,0 +1,11 @@
+proyecto/
+ src/
+ main.java
+ activity/
+ TaskListActivity.java
+ TaskDetailActivity.java
+ resources/
+ images/
+ strings.xml
+ config/
+ README.md
