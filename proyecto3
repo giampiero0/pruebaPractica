@@ -1,0 +1,8 @@
+proyecto/
+ notebooks/
+ exploracion_datos.ipynb
+ analisis_estadistico.ipynb
+ data/
+ dataset.csv
+ config/
+ README.md
